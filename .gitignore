@@ -12,5 +12,4 @@ newfig.png
 StudentsPerformance.csv
 tips.csv
 jose/
-
-.gitignore
+.vscode/
